@@ -21,7 +21,7 @@
 
 ### GitHub Stats
 
-<img alt="Dorfinger Jonas' Github Stats" src="https://github-readme-stats.vercel.app/api?username=dorfingerjonas&show_icons=true&count_private=true" />
+<center><img alt="Dorfinger Jonas' Github Stats" src="https://github-readme-stats.vercel.app/api?username=dorfingerjonas&show_icons=true&count_private=true" /></center>
 
 [website]: https://dorfingerjonas.at
 [instagram]: https://instagram.com/soniswapnil
