@@ -2,9 +2,9 @@
 
 ## I'm a Student and Developer
 
-- 🔭 I’m currently working on my main school project
-- 🥅 2020 Goals: survive the global pandemic
-- ⚡ Hobbies: I love engineering websites and go skiing
+- 🔭 I’m currently working on [Schuldners Liste] [schuldners-liste] and some school stuff
+- 🥅 2021 Goals: Enhance [Schuldners Liste] [schuldners-liste], get more into Angular and meet new awesome people
+- ⚡ Hobbies: I love photography and skiing
 
 ### Connect with me:
 
@@ -25,3 +25,4 @@
 
 [website]: https://dorfingerjonas.at
 [instagram]: https://instagram.com/dorfingerjonas
+[schuldners-liste]: https://schuldners-liste.com
