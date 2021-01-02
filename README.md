@@ -2,8 +2,8 @@
 
 ## I'm a Student and Developer
 
-- 🔭 I’m currently working on [Schuldners Liste] [schuldners-liste] and some school stuff
-- 🥅 2021 Goals: Enhance [Schuldners Liste] [schuldners-liste], get more into Angular and meet new awesome people
+- 🔭 I’m currently working on (Schuldners Liste)[schuldners-liste] and some school stuff
+- 🥅 2021 Goals: Enhance (Schuldners Liste)[schuldners-liste], get more into Angular and meet new awesome people
 - ⚡ Hobbies: I love photography and skiing
 
 ### Connect with me:
