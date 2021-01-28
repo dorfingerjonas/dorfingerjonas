@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Schuldners-Liste][schuldners-liste] and some school stuff
 - 🥅 2021 Goals: Enhance [Schuldners-Liste][schuldners-liste], get more into Angular and meet new awesome people
-- ⚡ Hobbies: I love photography and skiing
+- ⚡ Hobbies: I love photography, jogging and skiing
 
 ### Connect with me:
 
