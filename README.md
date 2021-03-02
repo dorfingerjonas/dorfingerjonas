@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-<img alt="Jonas Dorfinger's Tools and Languages" src="https://dorfingerjonas.com/assets/tools_and_languages.svg">
+<img style="width: 495px; height: 195px" alt="Jonas Dorfinger's Tools and Languages" src="https://dorfingerjonas.com/assets/tools_and_languages.svg">
 
 <br />
 <br />
