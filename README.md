@@ -2,9 +2,9 @@
 
 ## I'm a Student and Developer
 
-- 🔭 I’m currently working on [Schuldners-Liste][schuldners-liste] and some school stuff
-- 🥅 2021 Goals: Enhance [Schuldners-Liste][schuldners-liste], get more into Angular and meet new awesome people
-- ⚡ Hobbies: I love photography, jogging and skiing
+- 🔭 I’m currently working on [Schuldners-Liste][schuldners-liste] and some cool projects for [triply](https://triply.at/) and [time2win](https://time2win.at/)
+- 🥅 2022 Goals: Re-develop [Schuldners-Liste][schuldners-liste], enhance my Angular knowledge and meet some crazy people
+- ⚡ Hobbies: I love photography, running and skiing
 
 ### Connect with me:
 
