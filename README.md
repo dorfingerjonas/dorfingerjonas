@@ -12,15 +12,12 @@
 
 <br />
 
-### Languages and Tools:
-
-<img style="width: 495px; height: 195px" alt="Jonas Dorfinger's Tools and Languages" src="https://dorfingerjonas.com/assets/tools_and_languages.svg">
-
-<br />
-
 ### GitHub Stats
 
-<center><img alt="Dorfinger Jonas' Github Stats" src="https://github-readme-stats.vercel.app/api?username=dorfingerjonas&show_icons=true&count_private=true" /></center>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dorfingerjonas&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfingerjonas&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+
 
 [website]: https://dorfingerjonas.at
 [instagram]: https://instagram.com/dorfingerjonas
