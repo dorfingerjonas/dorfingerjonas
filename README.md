@@ -14,8 +14,8 @@
 
 ### GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dorfingerjonas>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfingerjonas>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dorfingerjonas">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorfingerjonas">
 
 [website]: https://dorfingerjonas.at
 [instagram]: https://instagram.com/dorfingerjonas
